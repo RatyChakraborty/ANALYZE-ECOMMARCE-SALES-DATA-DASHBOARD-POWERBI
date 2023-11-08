@@ -1,4 +1,4 @@
-# DASHBOARD-POWERBI-PROJECT-
+# ANALYZE-ECOMMARCE-SALES-DATA-DASHBOARD-POWERBI
 - Crafted an interactive Power BI dashboard to meticulously track and scrutinize e-commerce sales data.
 - Implemented intricate parameters, filters, and slicers to grant users a high level of customization and data exploration.
 - Formed robust data connections and conducted table joins, creating a unified and comprehensive data source.
